@@ -1,0 +1,65 @@
+{
+  "id": "2021803",
+  "name": "图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "320413",
+      "name": "玩乐",
+      "font_class": "wanle",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1066777",
+      "name": "酒店",
+      "font_class": "Hotel",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "1249035",
+      "name": "博士帽",
+      "font_class": "boshimao",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1312053",
+      "name": "旅行",
+      "font_class": "lvhang",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1617458",
+      "name": "达人",
+      "font_class": "daren",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2076348",
+      "name": "游记",
+      "font_class": "youji",
+      "unicode": "e8ac",
+      "unicode_decimal": 59564
+    },
+    {
+      "icon_id": "2121728",
+      "name": "飞机",
+      "font_class": "feiji",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "14033545",
+      "name": "攻略",
+      "font_class": "gonglve",
+      "unicode": "e7a0",
+      "unicode_decimal": 59296
+    }
+  ]
+}
